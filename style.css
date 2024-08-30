@@ -4,7 +4,7 @@ TYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Escola de Robótica</title>
+    <title>Agricultura em casa</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
@@ -21,7 +21,7 @@ TYPE html>
         }
         
         .cabeçalho {
-            background-color: #300301;
+            background-color: #30c43c;
             display: flex;
             justify-content: space-around;
             align-items: center;
@@ -29,7 +29,7 @@ TYPE html>
         }
         
         .cabeçalho-título {
-            color: #C72A2C;
+            color: #67a713;
             font-size: 54px;
         }
         
@@ -53,7 +53,7 @@ TYPE html>
         }
         
         .nossa-escola {
-            background-image: linear-gradient(#300301, #960903);
+            background-image: linear-gradient(#0b5c18, #49b83f);
             color: white;
             display: flex;
             justify-content: center;
