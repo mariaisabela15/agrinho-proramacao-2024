@@ -53,7 +53,7 @@ TYPE html>
             margin: 0 16px;
         }
         
-        .nossa-escola {
+        .Agricultura em casa {
             background-image: linear-gradient(#0b5c18, #49b83f);
             color: white;
             display: flex;
@@ -63,12 +63,12 @@ TYPE html>
         
         }
         
-        .nossa-escola-título {
-            font-size: 32px;
+        .Agricultura em casa-título {
+            font-size: 40px;
             padding: 24px;
         }
         
-        .nossa-escola-texto1 {
+        .Agricultura em casa-texto1 {
             font-size: 26px;
             padding: 24px;
         }
@@ -82,8 +82,8 @@ TYPE html>
             width: 40%;
         }
         
-        .nossa-escola-imagem {
-            width: 30%;
+        .Agricultura em casa-imagem {
+            width: 50%;
         }
         
         .equipe {
