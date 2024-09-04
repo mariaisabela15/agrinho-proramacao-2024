@@ -114,7 +114,7 @@ TYPE html>
         }
         
         .rodapé{
-            background-color: #300301;
+            background-color: #1c6b2b;
             color: #3bb168;
             font-size: 20px;
             display: flex;
@@ -227,8 +227,8 @@ TYPE html>
 
     <footer class="rodapé">
         <img class="rodapé-imagem" src="teaching 1.png" alt="robô em pé">
-        <h3 class="rodapé-título">Desenvolvido por Joanir Fernando Ribeiro</h3>
-        <a href="https://github.com/JoanirRibeiro">
+        <h3 class="rodapé-título">Desenvolvido por Maria Isabela Vieira dos Santos</h3>
+        <a href="https://github.com/mariaisabela15">
         <img class="rodapé-ícone" src="github (1).png" alt="">
         </a>
     </footer>
