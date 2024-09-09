@@ -124,11 +124,11 @@ TYPE html>
         }
         
         .rodapé-imagem{
-            width: 80px;
+            width: 100px;
         }
         
         .rodapé-ícone{
-            width: 80px;
+            width: 100px;
         }g 1.png" alt="plantas">
         <h1 class="cabeçalho-título">Agricultura em casa</h1>
         <ul class="cabeçalho-lista">
@@ -226,10 +226,10 @@ TYPE html>
     </section>
 
     <footer class="rodapé">
-        <img class="rodapé-imagem" src="teaching 1.png" alt="robô em pé">
+        <img class="rodapé-imagem" src="teaching 1.png" alt="">
         <h3 class="rodapé-título">Desenvolvido por Maria Isabela Vieira dos Santos</h3>
         <a href="https://github.com/mariaisabela15">
-        <img class="rodapé-ícone" src="github (1).png" alt="">
+        <img class="rodapé-ícone" src="github (1).png" alt="ícone do github">
         </a>
     </footer>
 </body>
